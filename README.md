@@ -1,3 +1,3 @@
 #  Homework
 ## Kodluyoruz'la ilk web sayfamı yaptım.
-### Web sitemi geliştiriyorum.
+Web sitemi geliştiriyorum.
